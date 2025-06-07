@@ -172,3 +172,5 @@ ax.set_title('HCO - Generációk  es Távolság')
 plt.show()
 
 
+# © 2025 Urbán Gergely. All rights reserved.
+# Ez a kód nem terjeszthető vagy használható fel az író írásos engedélye nélkül.
